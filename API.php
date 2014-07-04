@@ -10,11 +10,14 @@
 *
 **/
 
-// This bootstraps the api so you can just include 'crowdtilt/API.php';
+// This 'bootstraps' the api so you can just include 'crowdtilt/API.php';
 
 include_once 'config.php';
 include_once 'Crowdtilt.php';
 $Crowdtilt = new Crowdtilt($account_details);
+
+
+// these classes provide an optional abstraction layer
 
 // include_once 'resources/Campaign';
 // include_once 'resources/Payment';
