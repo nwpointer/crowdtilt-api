@@ -20,10 +20,14 @@ add the following to your composer.json file in your projects root directory
 ```
 
 
-alternativly you can also git clone it into your projects directory
+alternatively you can also git clone it into your projects directory OR add it as as submodule
 
 ```
-git clone https://github.com/nwpointer/crowdtilt-api.git
+git clone https://github.com/nwpointer/crowdtilt-api.git crowdtilt
+
+or
+
+git submodule add git://github.com/chneukirchen/rack.git crowdtilt
 ```
 
 
