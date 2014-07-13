@@ -24,9 +24,9 @@ alternatively you can also git clone it into your projects directory OR add it a
 
 ```
 git clone https://github.com/nwpointer/crowdtilt-api.git crowdtilt
-
+```
 or
-
+```
 git submodule add git://github.com/chneukirchen/rack.git crowdtilt
 ```
 
