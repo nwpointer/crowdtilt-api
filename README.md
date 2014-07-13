@@ -27,7 +27,7 @@ git clone https://github.com/nwpointer/crowdtilt-api.git crowdtilt
 ```
 or
 ```
-git submodule add git://github.com/chneukirchen/rack.git crowdtilt
+git submodule add https://github.com/nwpointer/crowdtilt-api.git crowdtilt
 ```
 
 
