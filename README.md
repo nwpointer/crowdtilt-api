@@ -20,7 +20,7 @@ add the following to your composer.json file in your projects root directory
 ```
 
 
-alternatively you can also git clone it into your projects directory OR add it as as submodule
+alternatively you can also git clone it into your projects directory or add it as as submodule
 
 ```
 git clone https://github.com/nwpointer/crowdtilt-api.git crowdtilt
