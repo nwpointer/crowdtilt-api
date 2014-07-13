@@ -11,11 +11,19 @@ $Crowdtilt->get('users');
 
 ### Instalation
 add the following to your composer.json file in your projects root directory
+
+```
 "require" :{
   "nwpointer/crowdtilt": "dev-master",
   ...any other packages you may need ...
 }
+```
 
-or just git clone it 
+
+alternativly you can also git clone it into your projects directory
+
+```
+git clone https://github.com/nwpointer/crowdtilt-api.git
+```
 
 
