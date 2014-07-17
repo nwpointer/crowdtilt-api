@@ -13,9 +13,10 @@ $Crowdtilt->get('users');
 add the following to your composer.json file in your projects root directory
 
 ```
-"require": {
-  "nwpointer/crowdtilt": "dev-master",
-  ...any other packages you may need ...
+{
+    "require": {
+        "nwpointer/crowdtilt": "dev-master"
+    }
 }
 ```
 
