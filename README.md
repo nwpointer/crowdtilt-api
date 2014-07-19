@@ -1,6 +1,8 @@
 Crowdtilt API
 =============
 
+NOTE: This is a rough draft not really intended for public use yet
+
 This is a super simple php wrapper that lets you get started integrating the Crowdtilt crowdfunding api into your project as quickly as posible. 
 
 Basic format of api calls: $Crowdtilt->$request-type($api call);
